@@ -3,6 +3,8 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vatiba&layout=compact&langs_count=7&theme=react"/>
 </div
 
+<br>
+<br>
 
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,redux,js,ts,sass,tailwind,html,css,vite,figma,git,materialui,vscode)](https://skillicons.dev)
 
